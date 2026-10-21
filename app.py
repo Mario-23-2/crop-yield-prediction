@@ -5,6 +5,9 @@ import re
 import pandas as pd
 import streamlit as st
 import joblib
+import streamlit as st
+
+st.write("DEBUG: App code has started.")
 from huggingface_hub import hf_hub_download
 
 

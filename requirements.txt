@@ -1,8 +1,8 @@
-
 streamlit
 pandas
 numpy
 scipy
 statsmodels
-huggingface_hub
 joblib
+huggingface_hub
+scikit-learn

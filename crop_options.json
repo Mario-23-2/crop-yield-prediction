@@ -1,0 +1,37 @@
+{
+  "Region": [
+    "East",
+    "North",
+    "South",
+    "West"
+  ],
+  "Soil_Type": [
+    "Chalky",
+    "Clay",
+    "Loam",
+    "Peaty",
+    "Sandy",
+    "Silt"
+  ],
+  "Crop": [
+    "Barley",
+    "Cotton",
+    "Maize",
+    "Rice",
+    "Soybean",
+    "Wheat"
+  ],
+  "Fertilizer_Used": [
+    "False",
+    "True"
+  ],
+  "Irrigation_Used": [
+    "False",
+    "True"
+  ],
+  "Weather_Condition": [
+    "Cloudy",
+    "Rainy",
+    "Sunny"
+  ]
+}
